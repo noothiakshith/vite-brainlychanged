@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "type": "tweet",
+    "title": "Zustand is the new Redux",
+    "username": "dai_shi",
+    "tweetUrl": "https://twitter.com/dai_shi/status/123456",
+    "description": "Why Zustand is simpler than Redux for most apps",
+    "about": "Helpful for our upcoming app",
+    "tags": ["zustand", "state", "react"],
+    "readLater": false,
+    "date": 1718889600000
+  },
+  {
+    "id": "2",
+    "type": "video",
+    "title": "React Server Components Explained",
+    "youtubeUrl": "https://www.youtube.com/watch?v=123456abc",
+    "description": "Rich Harris breaks down RSCs",
+    "note": "Use for project structure upgrade",
+    "tags": ["react", "rsc", "architecture"],
+    "readLater": true,
+    "date": 1718889601000
+  },
+  {
+    "id": "3",
+    "type": "document",
+    "title": "Mental Models for Developers",
+    "description": "A Notion doc on how to think better as a dev",
+    "note": "Use this as a reference for Second Brain",
+    "tags": ["thinking", "dev", "notes"],
+    "readLater": false,
+    "date": 1718889602000
+  },
+  {
+    "id": "4",
+    "type": "link",
+    "url": "https://vercel.com/blog/react-server-components",
+    "topic": "Deep Dive into RSC",
+    "description": "Detailed technical writeup from Vercel",
+    "note": "Bookmark for explaining to juniors",
+    "tags": ["react", "vercel", "server"],
+    "readLater": true,
+    "date": 1718889603000
+  }
+]
