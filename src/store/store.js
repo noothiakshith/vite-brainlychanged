@@ -1,7 +1,7 @@
 import { create } from "zustand";
 import { v4 as uuidv4 } from 'uuid';
 
-const usestore = create((set) => ({
+const notestore = create((set) => ({
   notes: [],
 
   addnote: (note) => set((state) => ({
@@ -64,4 +64,4 @@ getbyid: (id) => {
 }
 }));
 
-export default usestore;
+export default notestore;
